@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imgResim {
+    height: auto;
+}
+
+body {
+    padding-top: 65px;
+}
+
+.fonts {
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 25px;
+
+}
+.hakkimizda {
+    background-color: #f2f2f2;
+}
+.cizgi {
+    border: none;
+    border-top: 3px solid black;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.yaprak {
+  color: #343a40;  
+  position: relative;
+  top: -55px;
+  font-size:40px ;
+ 
+}
+.imgs {
+   height: 350px;
+}
+.timeCard>img:hover {
+opacity: 0.9;
+}
+.g5 {
+    background-color: #f2f2f2;
+}
+.kilo {
+    max-width: 250px;
+    max-height: 250px;
+}
+figure:hover {
+    opacity: 0.7;
+}
+.iletisim {
+    background-color: #f2f2f2
+}
+a>i {
+    color: white;
+}
